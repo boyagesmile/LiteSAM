@@ -1,6 +1,6 @@
 # LiteSAM
 
-**Status:** Code cleaning and organization in progress.
+This project is for [LiteSAM: Lightweight and Robust Feature Matching for Satellite and Aerial Imagery](https://www.mdpi.com/2072-4292/17/19/3349)
 
 ---
 
