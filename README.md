@@ -1,6 +1,7 @@
 # LiteSAM
 
 This project is for [LiteSAM: Lightweight and Robust Feature Matching for Satellite and Aerial Imagery](https://www.mdpi.com/2072-4292/17/19/3349)
+![Method overview](asset/img3.png)
 
 ---
 
